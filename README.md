@@ -6,4 +6,4 @@ Course projects with various data analytics tasks completeted during **Karpov Co
 **Project 3**: 1 task on A/B test analysis (EDA, statistics)  
 **Project 4**: 2 tasks on A/B test analysis (EDA, statistics), KPI proposition and dashboard design (+additional dashboard in Tableau)
 ## License
-This repository has [MIT License](LISENCE)
+This repository has [MIT License](LICENSE)
